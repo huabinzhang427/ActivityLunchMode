@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityLunchMode</string>
+
+    <string name="enter_standard">进入 standard 启动模式</string>
+    <string name="enter_singletop">进入 singletop 启动模式</string>
+    <string name="enter_singletask">进入 singletask 启动模式</string>
+    <string name="enter_singleinstance">进入 singleInstance 启动模式</string>
+    <string name="enter_main">返回主界面</string>
+</resources>
